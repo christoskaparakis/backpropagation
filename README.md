@@ -1,1 +1,1 @@
-backpropagation
+Implementation of the basic version of backpropagation for a small neural network. 
